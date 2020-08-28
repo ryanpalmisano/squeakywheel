@@ -1,2 +1,2 @@
 # squeakywheel
-checks auditd rules by firing each on
+checks auditd rules by firing each off once
